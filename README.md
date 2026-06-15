@@ -1,16 +1,56 @@
-## Hi there 👋
+# Bonjour 👋, je suis Daakor Guy Kévin SOME
 
-<!--
-**daakor-kevsom/daakor-kevsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+🎓 Ingénieur des travaux informatiques (BAC+3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Développeur Web et Mobile
+
+🚀 Passionné par le développement logiciel, l'automatisation et l'intelligence artificielle
+
+📍 Ouagadougou, Burkina Faso
+
+---
+
+## Compétences techniques
+
+* Python
+* Django
+* Django REST Framework
+* JavaScript
+* React
+* Flutter
+* Java
+* PostgreSQL
+* MySQL
+* Docker
+* Git
+* Linux
+
+---
+
+## Mes projets
+
+### 📱 Application Mobile UTS
+
+Application Flutter présentant l'Université Thomas Sankara.
+
+### 🏫 Gestion scolaire
+
+Application web développée avec Django pour la gestion des élèves et enseignants.
+
+### 📦 Gestion de stock
+
+Application de bureau développée avec Java Swing et MySQL.
+
+### 🌍 Site web culturel
+
+Site web de promotion de la culture du Sud-Ouest du Burkina Faso.
+
+---
+
+## Contact
+
+📧 Email : [daaksome002@gmail.com](mailto:daaksome002@gmail.com)
+
+📍 Ouagadougou, Burkina Faso
